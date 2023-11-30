@@ -1,0 +1,48 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    position: fixed;
+    left:50%;
+    top: 20%;
+    transform: translate(-50%,-20%);
+    padding: 30px;
+}
+ .Login{
+   padding: 15px 30px;
+   margin-bottom: 20px;
+   background-color: rgb(229, 233, 235);
+    
+}
+.ip{
+    display: block;
+    padding: 6px 10px;
+    border-color: black;
+}
+.ga{
+    padding-bottom: 8px;
+}
+.btn_sub{
+    width: 100%;
+    height: 50px;
+    margin-top: 20px;
+    background-color: rgb(59, 225, 145);
+}
+
+.dashboard{
+    padding: 15px 30px;
+    
+    
+    
+} 
+
+.btn_get{
+    width: 100%;
+    height:40px;
+    background-color: rgb(129, 161, 221);
+}
+.text{
+    display: none;
+}
